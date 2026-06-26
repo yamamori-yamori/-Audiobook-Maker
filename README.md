@@ -1,5 +1,5 @@
-# 日本語長文Audiobook Maker (Windows版) 
-## 作者：やまもりやもり  X: @yamamori_yamori
+## #日本語長文Audiobook Maker (Windows版) 
+## ##作者：やまもりやもり  X: @yamamori_yamori
 
 ## ライセンス：出力については商用含めてフリーです。このツールそのものの再配布や営利使用は禁止します。
 (copyright 2026 やまもりやもり)
@@ -68,4 +68,4 @@ AivisSpeechをインストールする。
 - カタカナは先頭アクセントになる
 - スペースは半角です。またスペースを詰めたり崩さないでください。
 
-end
+では、お楽しみください！
