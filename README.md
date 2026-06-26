@@ -1,10 +1,10 @@
 # 日本語長文Audiobook Maker (Windows版) 
 ### 作者：やまもりやもり  X: @yamamori_yamori
+(copyright 2026 やまもりやもり)
 
 ライセンスについて
 - 出力されたM4Bファイルについては商用含めてご自由にお使いください。なお、このツールそのものの再配布や営利使用は禁止します。
 - 音源にAivisSpeechを使用するので、AivisSpeechのライセンスには従ってください。
-(copyright 2026 やまもりやもり)
 
 
 ## ■■ 対応機種 ■■
