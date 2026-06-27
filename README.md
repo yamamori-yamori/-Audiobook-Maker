@@ -1,5 +1,5 @@
 # 日本語長文Audiobook Maker (Windows版) 
-### 作者：やまもりやもり  X: https://x.com/yamamori_yamori
+### 作者：やまもりやもり  https://x.com/yamamori_yamori
 (copyright 2026 やまもりやもり)
 
 権利とライセンスについて
@@ -90,4 +90,8 @@ AivisSpeechをインストールする。
 - 「上下に動いて下に下る」といった読みも対応できています。これは純粋にAivisSpeechが賢いです。もともとLMstudio連携でAIに読み仮名振らせようと思ってたのですが、AivisSpeechはその辺のAIより精度高かったです。
 
  ではでは、Audiobookをお楽しみください！　iPhone標準の「ブック」アプリがとても相性良いです。
+
+ ーー
+ 「ろりたけんじ」の名前でも小説書いてます　https://x.com/loliloli_kenji
+ ヤンマガWeb掲載中『異世界転移した俺は、Hのたびにガチャを引く！～もってくれ、俺の精力！～』の原作者です！
 
