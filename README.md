@@ -1,5 +1,5 @@
 # 日本語長文Audiobook Maker (Windows版) 
-### 作者：やまもりやもり  X: @yamamori_yamori
+### 作者：やまもりやもり  X: https://x.com/yamamori_yamori
 (copyright 2026 やまもりやもり)
 
 権利とライセンスについて
