@@ -22,6 +22,9 @@
 ## ■■ 使い方 ■■
 
 ### 事前準備
+
+プログラムをダウンロードする
+- 日本語長文Audiobook Maker.7z  これをダウンロードしてください。
 AivisSpeechをインストールする。
 - https://aivis-project.com/ ここからダウンロードしてインストール。
 - インストール後、AivisSpeechを起動しておく。
