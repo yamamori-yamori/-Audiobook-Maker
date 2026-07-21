@@ -1,7 +1,7 @@
 # 日本語長文Audiobook Maker (Windows版) 
 - 作者: [やまもりやもり](https://yamamori-yamori.github.io/mypage/)
 (copyright 2026 やまもりやもり)
-
+  
 権利とライセンスについて
 
 - このツールは文字音声変換機です。出力されたM4Bファイルについては、元原稿の著作者が権利を持ちます。
