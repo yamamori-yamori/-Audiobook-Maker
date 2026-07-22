@@ -26,7 +26,7 @@
 ### 事前準備
 
 #### プログラムをダウンロードする
-- 右の「Releases」より、最新版をダウンロードして解凍し、日本語長文Audiobook Maker.7zをさらに解凍してください。
+- [こちら](https://github.com/yamamori-yamori/-Audiobook-Maker/raw/refs/heads/main/%E6%97%A5%E6%9C%AC%E8%AA%9E%E9%95%B7%E6%96%87Audiobook%20Maker.7z)より、最新版をダウンロードして解凍し、日本語長文Audiobook Maker.7zをさらに解凍してください。
 -  (ダウンロードファイルは130MBほどあります。また解凍で400MBほどに膨らみます)
 
 #### AivisSpeechをインストールする（無料）
